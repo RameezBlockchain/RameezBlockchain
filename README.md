@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RameezBlockchain
 - 👀 I’m interested in Blockchain and its implementation in areas such as IoT, Mobile Ad hoc Networks, DApps, DeFi, Healthcare, Deep Learning.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning **Blockchain**
+- 💞️ I’m looking to collaborate on Blockchain implementation in various fields.
 - 📫 How to reach me ...
 
 <!---
